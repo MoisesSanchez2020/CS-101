@@ -56,6 +56,6 @@ print (f"It was a {adjective1} , cold November day. I \n"
        f"the {ingVerb} room. When I got there, I \n"
        f"couldn't belive my {partOfBody}! There were \n"
        f"{pluralNoun} {ingVerb2} on the {noun2}\n")
-w
+
 win = input("Victory you won the Super MadLibs! 2021")
 print(win)
